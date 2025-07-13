@@ -3,8 +3,9 @@
 - WM: Hyprland
 
 ### GitHub:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timasoft&show_icons=true&theme=radical)](https://github.com/timasoft)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timasoft&layout=compact&theme=radical)](https://github.com/timasoft)
+![timasoft's Stats](https://github-readme-stats.vercel.app/api?username=timasoft&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![timasoft's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=timasoft&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ## My current plans:
 - Create gui for my [ambiway](https://github.com/timasoft/ambiway)
