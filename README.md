@@ -1,6 +1,8 @@
 ## Short stats
 - OS: Arch Linux
 - WM: Hyprland
+- Term: kitty
+- Shell: fish
 
 ### GitHub:
 ![timasoft's Stats](https://github-readme-stats.vercel.app/api?username=timasoft&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
