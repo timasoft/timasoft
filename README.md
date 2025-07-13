@@ -1,4 +1,6 @@
-## Hi there 👋
+# My current plans:
+- Create gui for ambiway
+- Create hyprgui ( update [MarkusVolk/hyprgui](https://github.com/MarkusVolk/hyprgui) )
 
 <!--
 **timasoft/timasoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
