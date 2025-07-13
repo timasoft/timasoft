@@ -1,5 +1,5 @@
 # My current plans:
-- Create gui for ambiway
+- Create gui for my [ambiway](https://github.com/timasoft/ambiway)
 - Create hyprgui ( update [MarkusVolk/hyprgui](https://github.com/MarkusVolk/hyprgui) )
 
 <!--
