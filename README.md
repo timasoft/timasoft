@@ -11,7 +11,7 @@
 
 ## My current plans:
 - Create gui for my [ambiway](https://github.com/timasoft/ambiway)
-- Update [MarkusVolk/hyprgui](https://github.com/MarkusVolk/hyprgui)
+- Improve [hyprviz](https://github.com/timasoft/hyprviz)
 
 <!--
 **timasoft/timasoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
