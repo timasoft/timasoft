@@ -1,5 +1,5 @@
 ## Short stats
-- OS: Arch Linux
+- OS: Arch Linux, NixOS
 - WM: Hyprland
 - Term: kitty
 - Shell: fish
