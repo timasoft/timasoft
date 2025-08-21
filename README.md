@@ -9,8 +9,9 @@
 
 ![timasoft's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=timasoft&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ## My current plans:
-- Create gui and readme for my [ambiway](https://github.com/timasoft/ambiway)
+- Create flake for [ambiway](https://github.com/timasoft/ambiway)
 - Improve [hyprviz](https://github.com/timasoft/hyprviz)
+- Create gui and readme for my [ambiway](https://github.com/timasoft/ambiway)
 
 <!--
 **timasoft/timasoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
