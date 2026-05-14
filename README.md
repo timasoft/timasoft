@@ -14,7 +14,6 @@
 
 ## My current plans:
 - Create vizkit
-- Create [NDVoxGCalc](https://github.com/timasoft/NDVoxGCalc)
 - Improve [immich-analyze](https://github.com/timasoft/immich-analyze)
 
 <!--
