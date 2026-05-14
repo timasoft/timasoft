@@ -13,7 +13,8 @@
 -->
 
 ## My current plans:
-- Improve [hyprviz](https://github.com/timasoft/hyprviz)
+- Create vizkit
+- Create [NDVoxGCalc](https://github.com/timasoft/NDVoxGCalc)
 - Improve [immich-analyze](https://github.com/timasoft/immich-analyze)
 
 <!--
