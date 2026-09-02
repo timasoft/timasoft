@@ -1,6 +1,6 @@
 ## Short stats
-- OS: Arch Linux, NixOS
-- WM: Hyprland
+- OS: NixOS
+- WM: Niri
 - Term: kitty
 - Shell: fish
 <!--
